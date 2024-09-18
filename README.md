@@ -12,12 +12,16 @@ O In-Orbit API é um sistema de gerenciamento de metas e objetivos, desenvolvido
 --------------------
 
 * **Node.js**: Linguagem de programação utilizada para desenvolver o sistema.
+* **React.js**: O React é uma biblioteca front-end JavaScript de código aberto com foco em criar interfaces de usuário em páginas web.
+* **Docker**: Docker é um conjunto de produtos de plataforma como serviço que usam virtualização de nível de sistema operacional para entregar software em pacotes chamados contêineres.
 * **TypeScript**: Linguagem de tipagem utilizada para melhorar a segurança e a manutenção do código.
 * **Fastify**: Framework de API utilizado para criar a API RESTful.
 * **Drizzle-ORM**: ORM (Object-Relational Mapping) utilizado para interagir com o banco de dados.
 * **PostgreSQL**: Banco de dados relacional utilizado para armazenar as metas e conclusões de metas.
 * **Zod**: Biblioteca de validação de dados utilizada para garantir a consistência dos dados.
 * **Tanstack Query**: Gerenciamento de estado assíncrono poderoso para TS/JS, React, Solid, Vue, Svelte e Angular.
+* **Vite**: Vite é um servidor de desenvolvimento local escrito por Evan You, o criador do Vue.js, e usado por padrão pelo Vue e para modelos de projeto React. Possui suporte para TypeScript e JSX.
+* **Tailwind CSS**: Tailwind CSS é uma estrutura CSS de código aberto. A principal característica desta biblioteca é que, ao contrário de outros frameworks CSS como o Bootstrap, ela não fornece uma série de classes predefinidas para elementos como botões ou tabelas..
 
 **Endpoints**
 ------------
